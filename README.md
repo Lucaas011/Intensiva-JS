@@ -5,6 +5,7 @@ Bem-vindo ao repositório do meu projeto desenvolvido durante a intensiva no can
 Conteúdo do Projeto
 
 Aulas: 1 - 4
+
 Tecnologias Utilizadas:
 HTML
 CSS
